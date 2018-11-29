@@ -70,7 +70,7 @@
 <link rel='stylesheet' id='porto-theme-css'  href='wp-content/themes/porto/css/theme_15010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='porto-skin-css'  href='wp-content/themes/porto/css/skin_15010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='porto-style-css'  href='wp-content/themes/porto/style5010.css?ver=4.9.8' type='text/css' media='all' />
-<link rel='stylesheet' id='porto-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A200%2C300%2C400%2C700%2C800%2C600%2C%7CShadows+Into+Light%3A200%2C300%2C400%2C700%2C800%2C600%2C%7C&amp;subset=cyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Ckhmer%2Clatin%2Clatin-ext%2Cvietnamese&amp;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='porto-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A200%2C300%2C400%2C700%2C800%2C600%2C%7CShadows+Into+Light%3A200%2C300%2C400%2C700%2C800%2C600%2C%7C&amp;subset=cyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Ckhmer%2Clatin%2Clatin-ext%2Cvietnamese&amp;ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' property='stylesheet' id='animate-css-css'  href='wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min5243.css?ver=5.4.5' type='text/css' media='all' />
 <!--[if lt IE 10]>
 <link rel='stylesheet' id='porto-ie-css'  href='https://abhiprajexports.com/wp-content/themes/porto/css/ie.css?ver=4.9.8' type='text/css' media='all' />
@@ -152,7 +152,7 @@
                             <div id="main-menu">
                                 <ul id="menu-main-menu" class="main-menu mega-menu show-arrow effect-down subeffect-fadein-left">
                                     <li id="nav-menu-item-833" class="menu-home menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home narrow ">
-                                        <a href="index.php" class=""><i class="fa fa-home "></i>Home</a>
+                                        <a href="index.php" class=""><i class="fa fa-home mr-2"></i>Home</a>
                                     </li>
                                     <li id="nav-menu-item-517" class="menu-about menu-item menu-item-type-post_type menu-item-object-page  narrow ">
                                         <a href="about-us.php" class="">About Us</a>

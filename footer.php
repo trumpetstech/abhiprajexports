@@ -156,7 +156,7 @@
 <script src="https://abhiprajexports.com/wp-content/themes/porto/js/html5shiv.min.js"></script>
 <script src="https://abhiprajexports.com/wp-content/themes/porto/js/respond.min.js"></script>
 <![endif]-->
-<script data-cfasync="false" src="http://cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script data-cfasync="false" src="https://cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 <script type="text/javascript">
     function revslider_showDoubleJqueryError(sliderID) {
         var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
