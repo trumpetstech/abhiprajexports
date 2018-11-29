@@ -1,0 +1,62 @@
+/*
+
+Theme Name: ABHIPRAJ Exports | Developed by Sadhana Shinde
+Author: Sadhana Shinde
+Description: Responsive Wordpress Theme.
+Version: 4.0.4
+License: Commercial
+License URI: http://themeforest.net/licenses/regular_extended
+Tags: woocommerce, corporate, ecommerce, responsive, blue, black, green, white, light, dark, red, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: abhipraj
+
+*/
+
+/*************** ADD YOUR CUSTOM CSS HERE  ***************/
+
+.bypostauthor {}
+a.share-facebook{background-color:#3b5a9a !important;color:#ffffff !important;}
+a.share-twitter{background-color:#1aa9e1 !important;color:#ffffff !important;}
+a.share-instagram{background-color:#7c4a3a !important;color:#ffffff !important;}
+a.share-googleplus{background-color:#dd4b39 !important;color:#ffffff !important;}
+a.share-linkedin{background-color:#0073b2 !important;color:#ffffff !important;}
+.home-intro{background-color:aliceblue !important;}
+.p-b-md {
+    padding-bottom: 0px !important;
+}
+i.icon-featured{
+	margin:0px!important;
+}
+.custom-table #abhipraj_products {
+   
+    width: 100%;
+}
+
+.custom-table #abhipraj_products td {
+    border: 1px solid #ddd;
+    padding: 16px;
+}
+
+.custom-table #abhipraj_products tr:nth-child(even){background-color: yellowgreen;}
+.custom-table #abhipraj_products tr:nth-child(odd){background-color: #ffffff;}
+
+.custom-table #abhipraj_products tr:hover {background-color: lightgoldenrodyellow;}
+
+.custom-tables #abhipraj_productss {  
+    width: 100%;
+}
+
+.custom-tables #abhipraj_productss td {
+    border: 1px solid #ddd;
+    padding: 14px;
+}
+
+.custom-tables #abhipraj_productss tr:nth-child(even){background-color: yellowgreen;}
+.custom-tables #abhipraj_productss tr:nth-child(odd){background-color: #ffffff;}
+
+.custom-tables #abhipraj_productss tr:hover {background-color: lightgoldenrodyellow;}
+.home-intro p em{
+    font-family: comic sans-serif !important;
+}
+#footer a {
+    color: grey !important;
+}
