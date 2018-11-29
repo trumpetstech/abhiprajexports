@@ -167,7 +167,7 @@
         jQuery(sliderID).show().html(errorMessage);
     }
 </script>
-<link rel='stylesheet' property='stylesheet' id='vc_google_fonts_abril_fatfaceregular-css'  href='http://fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&amp;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' property='stylesheet' id='vc_google_fonts_abril_fatfaceregular-css'  href='https://fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&amp;ver=4.9.8' type='text/css' media='all' />
 
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts5597.js?ver=5.0'></script>
 <script type='text/javascript' src='wp-includes/js/comment-reply.min5010.js?ver=4.9.8'></script>

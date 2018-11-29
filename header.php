@@ -28,12 +28,12 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Abhipraj Exports is the grower exporter company.We are the producers/exports of fresh fruits from India since 1994,in Nashik, Maharashtra, India." />
     <meta name="twitter:title" content="Abhipraj Exports is the grower exporter company in nasik." />
-    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/abhiprajexports.com\/","name":"Abhipraj Exports","potentialAction":{"@type":"SearchAction","target":"https:\/\/abhiprajexports.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-    <script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/abhiprajexports.com\/","sameAs":["#","#","#","#","#","#"],"@id":"#organization","name":"Abhipraj Exports","logo":"https:\/\/abhiprajexports.com\/wp-content\/uploads\/2017\/12\/abhiraj.png"}</script>
+    <script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/abhiprajexports.com\/","name":"Abhipraj Exports","potentialAction":{"@type":"SearchAction","target":"https:\/\/abhiprajexports.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+    <script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/abhiprajexports.com\/","sameAs":["#","#","#","#","#","#"],"@id":"#organization","name":"Abhipraj Exports","logo":"https:\/\/abhiprajexports.com\/wp-content\/uploads\/2017\/12\/abhiraj.png"}</script>
     <!-- / Yoast SEO plugin. -->
 
-    <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel='dns-prefetch' href='http://s.w.org/' />
+    <link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+    <link rel='dns-prefetch' href='https://s.w.org/' />
     <link rel="alternate" type="application/rss+xml" title="Abhipraj Exports &raquo; Feed" href="feed.php" />
     <link rel="alternate" type="application/rss+xml" title="Abhipraj Exports &raquo; Comments Feed" href="comments/feed.php" />
     <script type="text/javascript">
@@ -107,7 +107,7 @@
     }catch(d){console.log("Failure at Presize of Slider:"+d)}
 };</script>
 <noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
-<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css">
 
 </head>
 <body class="home page-template-default page page-id-143 full blog-1  wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
