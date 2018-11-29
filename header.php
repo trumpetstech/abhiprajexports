@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="wp-content/themes/porto/images/logo/apple-touch-icon_76x76.png">
     <link rel="apple-touch-icon" sizes="152x152" href="wp-content/themes/porto/images/logo/apple-touch-icon_152x152.png">
 
-    <title>Abhipraj Exports is the grower exporter company in nasik.</title>
+    <title>1Abhipraj Exports is the grower exporter company in nasik.</title>
     <style rel="stylesheet" property="stylesheet" type="text/css">.ms-loading-container .ms-loading, .ms-slide .ms-slide-loading { background-image: none !important; background-color: transparent !important; box-shadow: none !important; } #header .logo { max-width: 170px; } @media (min-width: 1200px) { #header .logo { max-width: 250px; } } @media (max-width: 991px) { #header .logo { max-width: 110px; } } @media (max-width: 767px) { #header .logo { max-width: 110px; } } #header.sticky-header .logo { max-width: 100px; }</style>
     <!-- This site is optimized with the Yoast SEO plugin v6.3.1 - https://yoast.com/wordpress/plugins/seo/ -->
     <meta name="description" content="Abhipraj Exports is the grower exporter company.We are the producers/exports of fresh fruits from India since 1994,in Nashik, Maharashtra, India."/>
