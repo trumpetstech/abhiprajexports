@@ -2,7 +2,7 @@
 include('header.php');
 ?>
 <link rel='stylesheet' property='stylesheet' id='vc_tta_style-css'  href='wp-content/plugins/js_composer/assets/css/js_composer_tta.min5243.css?ver=5.4.5' type='text/css' media='all' />
-<link rel='stylesheet' property='stylesheet' id='vc_google_fonts_abeezeeregularitalic-css'  href='http://fonts.googleapis.com/css?family=ABeeZee%3Aregular%2Citalic&amp;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' property='stylesheet' id='vc_google_fonts_abeezeeregularitalic-css'  href='https://fonts.googleapis.com/css?family=ABeeZee%3Aregular%2Citalic&amp;ver=4.9.8' type='text/css' media='all' />
 
 <section class="page-top page-header-1">
     <div class="container">
