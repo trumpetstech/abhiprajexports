@@ -251,7 +251,7 @@ include('header.php');
                     }else{
                         revapi1 = tpj("#rev_slider_1_1").show().revolution({
                             sliderType:"standard",
-                            jsFileLocation:"//abhiprajexports.com/wp-content/plugins/revslider/public/assets/js/",
+                            jsFileLocation:"wp-content/plugins/revslider/public/assets/js/",
                             sliderLayout:"auto",
                             dottedOverlay:"none",
                             delay:9000,
