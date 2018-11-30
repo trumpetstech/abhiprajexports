@@ -96,7 +96,7 @@ include('header.php');
                                                 </li>
                                                 <li>
                                                     <a href="#tab-1512224863947-6-2" id="tab-1512224863947-6-2-title" data-toggle="tab">
-                                                        <i class="far fa-handshake"></i>Post Harvest handling
+                                                        <i class="fa fa-handshake-o"></i>Post Harvest handling
                                                     </a>
                                                 </li>
                                             </ul>
